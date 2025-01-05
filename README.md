@@ -40,10 +40,10 @@ Content: A simple interface to add, edit, and delete quiz questions.
 Resources: Implement with basic CRUD functionality using JavaScript and a backend (e.g., Node.js or Python Flask).
 Design Tips:
 Navigation: Intuitive layout with clear buttons for navigation between sections.
+
 Responsive Design: Ensure the app adapts to different devices using CSS flexbox or grid.
 Accessibility: Add keyboard navigation and screen reader-friendly labels.
-Resources to Minimize Use:
-Frameworks: Use React.js or Vue.js for a dynamic and lightweight user experience.
-Hosting: Free hosting platforms like Firebase or Vercel.
-Images & Icons: Free resources like Font Awesome or Flaticon for UI elements.
-Testing & Deployment: Use free testing tools like BrowserStack and deploy via GitHub Pages.
+
+**OUTPUT OF THE TASK
+![image](https://github.com/user-attachments/assets/d2a79ba4-6679-42dc-9e7f-0a8c8c97819a)
+
